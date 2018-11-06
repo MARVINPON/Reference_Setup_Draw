@@ -8,5 +8,4 @@ void draw(){
   fill(random(255),random(255),random(255),150);
   rect(mouseX,mouseY,50,50);
   
-  save("REFERENCE-SetupDraw.png");
 }
